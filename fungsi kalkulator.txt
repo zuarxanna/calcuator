@@ -1,2 +1,0 @@
-- calculator untuk menghitung
-- bukan untuk mencatat nomer hp
